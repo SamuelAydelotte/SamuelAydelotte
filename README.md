@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Samuel!
 
-<!--
-**SamuelAydelotte/SamuelAydelotte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a Cybersecurity student at BYU-Idaho interested in cybersecurity,
+networking, and technology. I'm currently developing my skills through
+coursework and personal projects.
 
-Here are some ideas to get you started:
+## Skills & Technologies
+- Linux
+- Python
+- Networking
+- Git & GitHub
+- SQL
+- Cybersecurity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Education
+Brigham Young University-Idaho
+Cybersecurity
